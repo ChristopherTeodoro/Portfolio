@@ -1,0 +1,16 @@
+.resume-picture {
+  border-radius: 50%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  background-image: url(https://designmodo.com/wp-content/uploads/2012/05/617.jpg);
+  background-image: no repeat;
+}
+.container {
+  font-size: 20px;
+  font-stretch: extra-expanded;
+  font-weight: bold;
+}
+
